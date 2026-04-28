@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Atividade de Horários</title>
+</head>
+<body>
+
+    <h1>Meus Hobbies e Horários</h1>
+
+    <h2>Meus Hobbies</h2>
+    <ul>
+        <li>dançar</li>
+        <li>Praticar esportes</li>
+        <li>Ouvir música</li>
+        <li>Assistir séries e filmes</li>
+        <li>Estudar sobre psicologia</li>
+    </ul>
+
+    <hr>
+
+    <h2>Minha Grade Acadêmica</h2>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Disciplina</th>
+                <th>Professor</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Física</td>
+                <td>Élcio</td>
+            </tr>
+            <tr>
+                <td>Informática (Programação)</td>
+                <td>Renan</td>
+            </tr>
+            <tr>
+                <td>Química</td>
+                <td>ewerton</td>
+            </tr>
+            <tr>
+                <td>Matemática</td>
+                <td>kacio</td>
+            </tr>
+            <tr>
+                <td>Português</td>
+                <td>alessandra</td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>
